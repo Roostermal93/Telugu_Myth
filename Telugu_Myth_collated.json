@@ -1,0 +1,35 @@
+{
+    "count": 4,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "id": "7bb34c3d-6c62-4236-8ed1-1e33e71f7353",
+            "collectionId": "Telugu",
+            "type": "Myth",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Telugu/Telugu_Myth/7bb34c3d-6c62-4236-8ed1-1e33e71f7353/7bb34c3d-6c62-4236-8ed1-1e33e71f7353_te_Male.mp4"
+        },
+        {
+            "id": "ed93c08a-cc34-4283-97b1-1c7da233a904",
+            "collectionId": "Telugu",
+            "type": "Myth",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Telugu/Telugu_Myth/ed93c08a-cc34-4283-97b1-1c7da233a904/ed93c08a-cc34-4283-97b1-1c7da233a904_te_Male.mp4"
+        },
+        {
+            "id": "da057934-9490-451d-b052-03b33ad67433",
+            "collectionId": "Telugu",
+            "type": "Myth",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Telugu/Telugu_Myth/da057934-9490-451d-b052-03b33ad67433/da057934-9490-451d-b052-03b33ad67433_te_Female.mp4"
+        },
+        {
+            "id": "fdfd3ccf-0bcd-4a71-8978-7cf65161d1ce",
+            "collectionId": "Telugu",
+            "type": "Myth",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Telugu/Telugu_Myth/fdfd3ccf-0bcd-4a71-8978-7cf65161d1ce/fdfd3ccf-0bcd-4a71-8978-7cf65161d1ce_te_Male.mp4"
+        }
+    ]
+}
